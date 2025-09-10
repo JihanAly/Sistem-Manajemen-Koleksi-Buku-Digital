@@ -1,6 +1,8 @@
 # Sistem-Manajemen-Koleksi-Buku-Digital
 **Nama**  : Jihan Alya Naflah  
+
 **NIM**   : 2409116082
+
 **Kelas** : C
 
 # Sistem Manajemen Koleksi Buku Digital
@@ -12,13 +14,17 @@ Program Sistem Manajemen Koleksi Buku Digital dibuat untuk membantu pengguna men
 2. Menu Utama menampilkan pilihan:
 
     a. Tambah Buku
+   
     b. Lihat Koleksi Buku
+   
     c. Hapus Buku
+   
     d. Kembali / Keluar
-3. Tambah Buku → pengguna memasukkan judul buku → buku berhasil ditambahkan ke koleksi.
-4. Lihat Koleksi Buku → menampilkan daftar semua buku yang tersimpan.
-5. Hapus Buku → menampilkan daftar buku → pengguna memilih nomor buku yang ingin dihapus → buku berhasil dihapus dari koleksi.
-6. Kembali / Keluar → program memberikan opsi: tekan ENTER untuk keluar atau ketik apapun untuk kembali ke menu → jika keluar, program berhenti.
+   
+4. Tambah Buku → pengguna memasukkan judul buku → buku berhasil ditambahkan ke koleksi.
+5. Lihat Koleksi Buku → menampilkan daftar semua buku yang tersimpan.
+6. Hapus Buku → menampilkan daftar buku → pengguna memilih nomor buku yang ingin dihapus → buku berhasil dihapus dari koleksi.
+7. Kembali / Keluar → program memberikan opsi: tekan ENTER untuk keluar atau ketik apapun untuk kembali ke menu → jika keluar, program berhenti.
 
 
 ## Tampilan Program
@@ -26,11 +32,10 @@ Program Sistem Manajemen Koleksi Buku Digital dibuat untuk membantu pengguna men
 
 ![pbo 2](https://github.com/user-attachments/assets/92b63165-09bb-4191-a869-d6d633e5b5bf)
 
-![pbo 3](https://github.com/user-attachments/assets/a322f6b3-ec5a-458e-912d-e1cf35ec9693)
-
 ![pbo 4](https://github.com/user-attachments/assets/9c460214-e6ea-4b4f-8601-3dfd75e599de)
 
+![pbo 3](https://github.com/user-attachments/assets/a322f6b3-ec5a-458e-912d-e1cf35ec9693)
 
 
-![pbo 2](https://github.com/user-attachments/assets/10db0a9a-4038-4f3b-ab95-aae80db0ae72)
+
 
