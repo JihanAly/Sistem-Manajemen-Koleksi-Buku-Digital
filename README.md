@@ -29,11 +29,30 @@ Program Sistem Manajemen Koleksi Buku Digital dibuat untuk membantu pengguna men
 
 ## Tampilan Program
 
-![pbo 2](https://github.com/user-attachments/assets/92b63165-09bb-4191-a869-d6d633e5b5bf)
+![pbo ss 1](https://github.com/user-attachments/assets/ae5b4185-2093-4764-acfa-caab37ef82a8)
 
-![pbo 3](https://github.com/user-attachments/assets/a322f6b3-ec5a-458e-912d-e1cf35ec9693)
+![pbo ss 2](https://github.com/user-attachments/assets/c657fc0d-69a1-47b8-80d5-485bc171bd4e)
 
-![pbo ss 6](https://github.com/user-attachments/assets/19860dcd-c55e-4176-98ac-ec001ad0e404)
+![pbo ss 3](https://github.com/user-attachments/assets/72133d59-83c6-4481-80eb-4156686cf060)
+
+![pbo ss 4](https://github.com/user-attachments/assets/3fcc64db-c03b-4647-b33f-cac556dcf6d7)
+
+![pbo ss 5](https://github.com/user-attachments/assets/ad165431-4122-4c26-a4fc-11b51d464785)
+
+![pbo ss 6](https://github.com/user-attachments/assets/8472a955-71e6-4162-b7c0-d5ea57f989cb)
+
+
+<img width="1366" height="768" alt="Screenshot (369)" src="https://github.com/user-attachments/assets/86cfc53a-949e-40ce-be6f-d2779ed44b93" />
+
+<img width="1366" height="768" alt="Screenshot (370)" src="https://github.com/user-attachments/assets/dcdb1f0c-c088-423b-b66a-03821d3c42e7" />
+
+<img width="1366" height="768" alt="Screenshot (371)" src="https://github.com/user-attachments/assets/b0ab5b7f-3c6a-496c-9c37-372ecaefd7c9" />
+
+
+
+
+
+
 
 
 
