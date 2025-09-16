@@ -36,6 +36,8 @@ Program Sistem Manajemen Koleksi Buku Digital dibuat untuk membantu pengguna men
 
 ![pbo 4](https://github.com/user-attachments/assets/9c460214-e6ea-4b4f-8601-3dfd75e599de)
 
+![pbo ss 6](https://github.com/user-attachments/assets/19860dcd-c55e-4176-98ac-ec001ad0e404)
+
 
 
 
